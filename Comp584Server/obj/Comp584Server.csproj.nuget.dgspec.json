@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Comp584Server.csproj": {}
+    "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\Comp584Server\\Comp584Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Comp584Server.csproj": {
+    "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\Comp584Server\\Comp584Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Comp584Server.csproj",
+        "projectUniqueName": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\Comp584Server\\Comp584Server.csproj",
         "projectName": "Comp584Server",
-        "projectPath": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Comp584Server.csproj",
-        "packagesPath": "C:\\Users\\ceg99716\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\obj\\",
+        "projectPath": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\Comp584Server\\Comp584Server.csproj",
+        "packagesPath": "Z:\\NugetPackages\\",
+        "outputPath": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\Comp584Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ceg99716\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +27,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "Z:\\NugetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\WorldModel\\WorldModel.csproj": {
-                "projectPath": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\WorldModel\\WorldModel.csproj"
+              "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\WorldModel\\WorldModel.csproj": {
+                "projectPath": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\WorldModel\\WorldModel.csproj"
               }
             }
           }
@@ -61,27 +62,31 @@
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.8, )"
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.Build": {
+              "target": "Package",
+              "version": "[17.14.28, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -89,7 +94,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.6, )"
             }
           },
           "imports": [
@@ -111,24 +116,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\WorldModel\\WorldModel.csproj": {
+    "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\WorldModel\\WorldModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\WorldModel\\WorldModel.csproj",
+        "projectUniqueName": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\WorldModel\\WorldModel.csproj",
         "projectName": "WorldModel",
-        "projectPath": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\WorldModel\\WorldModel.csproj",
-        "packagesPath": "C:\\Users\\ceg99716\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\WorldModel\\obj\\",
+        "projectPath": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\WorldModel\\WorldModel.csproj",
+        "packagesPath": "Z:\\NugetPackages\\",
+        "outputPath": "Z:\\CsunCode\\2025-Fall\\AlirieServer\\Comp584Server\\WorldModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ceg99716\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -137,7 +143,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "Z:\\NugetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -166,15 +172,15 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -193,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
