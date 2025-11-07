@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816BE944-9F60-445A-A15F-B95F8209704D}|Comp584Server\\Comp584Server.csproj|c:\\users\\ceg99716\\source\\repos\\comp584server\\comp584server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BE944-9F60-445A-A15F-B95F8209704D}|Comp584Server\\Comp584Server.csproj|solutionrelative:comp584server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BE944-9F60-445A-A15F-B95F8209704D}|Comp584Server\\Comp584Server.csproj|c:\\users\\ceg99716\\source\\repos\\comp584server\\comp584server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BE944-9F60-445A-A15F-B95F8209704D}|Comp584Server\\Comp584Server.csproj|solutionrelative:comp584server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BE944-9F60-445A-A15F-B95F8209704D}|Comp584Server\\Comp584Server.csproj|c:\\users\\ceg99716\\source\\repos\\comp584server\\comp584server\\comp584server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{816BE944-9F60-445A-A15F-B95F8209704D}|Comp584Server\\Comp584Server.csproj|solutionrelative:comp584server\\comp584server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Comp584Server\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Comp584Server\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:53:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comp584Server",
+              "DocumentMoniker": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Comp584Server.csproj",
+              "RelativeDocumentMoniker": "Comp584Server\\Comp584Server.csproj",
+              "ToolTip": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Comp584Server.csproj",
+              "RelativeToolTip": "Comp584Server\\Comp584Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T22:35:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Program.cs",
+              "RelativeDocumentMoniker": "Comp584Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ceg99716\\source\\repos\\Comp584Server\\Comp584Server\\Program.cs",
+              "RelativeToolTip": "Comp584Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:29:24.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
