@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comp584Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a2d2dfa16b074f565d686362fba641b23e9c1bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd95b8dcbdab290ecf495ab4dda72a5b09111ea1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comp584Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comp584Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
