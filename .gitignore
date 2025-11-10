@@ -484,3 +484,5 @@ $RECYCLE.BIN/
 *.swp
 /Comp584Server/bin
 /.vs
+/.vs
+/Comp584Server/obj
