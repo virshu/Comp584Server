@@ -31,7 +31,7 @@ namespace Comp584Server.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<City>> GetCity(int id)
         {
-            var city = await _context.Cities.FindAsync(id);
+            City? city = await _context.Cities.FindAsync(id);
 
             if (city == null)
             {
@@ -87,7 +87,7 @@ namespace Comp584Server.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCity(int id)
         {
-            var city = await _context.Cities.FindAsync(id);
+            City? city = await _context.Cities.FindAsync(id);
             if (city == null)
             {
                 return NotFound();

@@ -40,7 +40,7 @@ namespace Comp584Server.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Country>> GetCountry(int id)
         {
-            var country = await context.Countries.FindAsync(id);
+            Country? country = await context.Countries.FindAsync(id);
 
             if (country == null)
             {
@@ -109,7 +109,7 @@ namespace Comp584Server.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCountry(int id)
         {
-            var country = await context.Countries.FindAsync(id);
+            Country? country = await context.Countries.FindAsync(id);
             if (country == null)
             {
                 return NotFound();
